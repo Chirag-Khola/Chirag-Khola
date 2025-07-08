@@ -3,9 +3,7 @@
 
 - 🌱 I'm practising to improve my **Data Structures and Algorithms and Problem Solving Skills.**
 
-<!-- - 💻 I’m also learning **UI/UX Design and Building Cross Platform Mobile Apps with Flutter.** -->
 
-<!-- - 👨‍💻 Check out my portfolio website at **[https://jhanvee-khola.netlify.app/](https://jhanvee-khola.netlify.app/)**  -->
 
 - 📫 Reach me at **chiragkhola47@gmail.com**
 
@@ -19,15 +17,6 @@
 <h3 align="left">🤝🏻 Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/chirag-ck/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!-- <a href="https://twitter.com/jhanvee_khola"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
-<!-- <a href="https://medium.com/@jhanveekhola"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> -->
 
-<!-- <h3 align="left">⚙️ Github Analytics</h3>
-<p align="center">
-<a href="https://github.com/Chirag-Khola">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhanvee-khola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhanvee-khola&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-<!--   <img src="https://raw.githubusercontent.com/jhanvee-khola/jhanvee-khola/3007ed7260d3e9337d2dfe6a5c1686313b4cae86/github-contribution-grid-snake.svg"> -->
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
 </p> -->
