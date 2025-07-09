@@ -1,5 +1,5 @@
 <h1 align="center">Hey All <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40">, I am Chirag Khola</h1>
-<h3 align="center">A student, programmar and Machine Learning Enthusiast from India</h3>
+<h3 align="center">A Student, Programmar and Machine Learning Enthusiast from India</h3>
 
 - 🌱 I'm practising to improve my **Data Structures and Algorithms and Problem Solving Skills.**
 
